@@ -3,7 +3,6 @@ brew "the_silver_searcher"
 brew "tig"
 brew "tmux"
 
-cask "audacity"
 cask "banktivity"
 cask "caskroom/versions/google-chrome-canary"
 cask "dash"
